@@ -75,7 +75,19 @@ This project uses procurement data to evaluate supplier performance, analyse pur
 
 ## Business Recommendations
 
-Business recommendations will be developed based on the findings from SQL analysis, Excel calculations, and Power BI visualisations.
+## Business Recommendations
+
+1. **Strengthen Supplier Performance Management:** Identify underperforming suppliers and implement structured performance improvement plans with measurable delivery, quality and compliance targets.
+
+2. **Investigate Supplier Quality Issues:** Conduct root-cause analysis for suppliers with high defect rates to identify whether quality issues originate during manufacturing, handling or transportation.
+
+3. **Optimise Supplier Allocation:** Evaluate supplier performance before reallocating purchase volumes. Prioritise reliable suppliers while considering pricing, delivery capacity and product quality.
+
+4. **Improve Delivery Reliability:** Monitor supplier lead times and establish clear delivery performance expectations to minimise delays and improve procurement efficiency.
+
+5. **Negotiate Better Procurement Terms:** Use supplier-wise spend and negotiated price analysis to identify opportunities for cost reduction and improved purchasing agreements.
+
+6. **Establish Regular Supplier Reviews:** Implement a supplier scorecard to regularly evaluate delivery, quality, cost and compliance performance and support data-driven procurement decisions.
 
 ## Repository Structure
 
