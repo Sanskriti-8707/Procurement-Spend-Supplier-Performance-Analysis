@@ -70,8 +70,6 @@ This project uses procurement data to evaluate supplier performance, analyse pur
 
 ## Business Recommendations
 
-## Business Recommendations
-
 1. **Strengthen Supplier Performance Management:** Identify underperforming suppliers and implement structured performance improvement plans with measurable delivery, quality and compliance targets.
 
 2. **Investigate Supplier Quality Issues:** Conduct root-cause analysis for suppliers with high defect rates to identify whether quality issues originate during manufacturing, handling or transportation.
@@ -84,14 +82,6 @@ This project uses procurement data to evaluate supplier performance, analyse pur
 
 6. **Establish Regular Supplier Reviews:** Implement a supplier scorecard to regularly evaluate delivery, quality, cost and compliance performance and support data-driven procurement decisions.
 
-## Repository Structure
-
-- `data/` – Original and processed datasets.
-- `excel/` – Excel analysis and supplier scorecards.
-- `sql/` – SQL queries and analysis.
-- `powerbi/` – Power BI dashboard files.
-- `screenshots/` – Dashboard screenshots.
-- `reports/` – Project documentation and case study.
 
 ## Author
 
