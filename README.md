@@ -79,8 +79,3 @@ Business recommendations will be developed based on the findings from SQL analys
 
 Sanskriti Rajpoot
 
-## Reference
-
-This project uses the Procurement KPI Analysis Dataset from Kaggle. The original supplier performance project by Supraja Sharma was used as a learning reference.
-
-Original reference: https://github.com/suprajasharmaa/supplier-quality-performance-dashboard
