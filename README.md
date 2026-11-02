@@ -1,6 +1,6 @@
 # Procurement Spend & Supplier Performance Analysis
 
-📄 [Case Study Report](reports/Supplier_Quality_Performance_Dashboard_Writeup.docx) | 🗃️ [SQL Queries](sql/procurement_analysis.sql) | 📈 [Excel Analysis](excel/Vendor_Scorecard_Composite_Ranking.xlsx) | 📊 [Power BI Dashboard](Dashboard/Supplier_Quality_Performance_Dashboard.pbix)
+📄 [Case Study Report](reports/Supplier_Quality_Performance_Dashboard_Writeup.docx) | 🗃️ [SQL Queries](sql/procurement_analysis.sql) | 📈 [Excel Analysis](excel/Vendor_Scorecard_Composite_Ranking.xlsx) | 📊 [Power BI Dashboard](dashboard/Supplier_Quality_Performance_Dashboard.pbix)
 
 A SQL, Excel and Power BI analysis of procurement spend and supplier performance, focusing on purchasing patterns, supplier delivery performance, product quality, negotiated savings and compliance.
 
