@@ -8,11 +8,6 @@ A SQL, Excel and Power BI analysis of procurement spend and supplier performance
 
 ## Project Overview
 
-
-# Procurement Spend & Supplier Performance Analysis
-
-## Project Overview
-
 This project focuses on analysing procurement spend and supplier performance using SQL, Microsoft Excel, and Power BI.
 
 The analysis aims to evaluate supplier delivery performance, product quality, procurement costs, and compliance to identify areas for operational improvement and cost optimisation.
