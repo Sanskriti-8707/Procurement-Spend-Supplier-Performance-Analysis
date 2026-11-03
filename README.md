@@ -41,7 +41,7 @@ Composite Score weights: On-Time 30%, Defect Rate 40%, Compliance 20%, Lead Time
 ![Overview](screenshots/overview.png)
 
 ### Supplier Detail
-![Supplier Detail](screenshots/segment-anaylsis.png)
+![Supplier Detail](screenshots/segment-analysis.png)
 
 ### Segment Analysis
 ![Segment Analysis](screenshots/supplier-detail.png)
